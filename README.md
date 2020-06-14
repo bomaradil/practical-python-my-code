@@ -2,7 +2,7 @@
 
 A little Python project following the course of David Beazley https://dabeaz-course.github.io/practical-python/
 
-## you will find my personnal code in the dir Work.
+## you will find my personnal code in here.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
